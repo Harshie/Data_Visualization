@@ -1,0 +1,8 @@
+The link of the created dashboard using Google Data Studio is given below.
+
+https://datastudio.google.com/u/0/reporting/d7bb3d09-f0ce-4588-ba7c-d1e4c68db238/page/nKzuB
+
+The dataset for this dashboard is updated every 15 minutes based on the update from the primary data website https://www.worldometers.info/coronavirus/
+
+This COVID-19 data is then retrived from this webpage to a google sheet which acts as a data source for the dashboard.
+
